@@ -1,4 +1,4 @@
-M# Welcome to my Homepage!
+# Welcome to My Homepage!
 
 The purpose of this page is for class and for me to learn how to use GitHub.
 
