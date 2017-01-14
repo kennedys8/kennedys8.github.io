@@ -1,4 +1,4 @@
-# Welcome to Sheila's homepage!
+# Welcome to my homepage!
 
 The purpose of this page is for class and for me to learn how to use GitHub.
 
